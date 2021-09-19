@@ -1,4 +1,4 @@
-/* added this commit in featureA branch */
+/* added this commit in dev branch */
 public class PyramidExmpl {
 
 	public static void main(String[] args) {
