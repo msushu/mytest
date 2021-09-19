@@ -1,4 +1,4 @@
-/* added this commit in dev branch */
+/* added this commit in development branch */
 public class PyramidExmpl {
 
 	public static void main(String[] args) {
