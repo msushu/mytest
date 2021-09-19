@@ -1,4 +1,6 @@
 import java.util.*;
+/* merged in feature A*/ 
+
 public class FibonacciExample {
 
 	public static void main(String[] args) {
